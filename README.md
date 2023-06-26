@@ -9,5 +9,5 @@
 <p>The variable "pg_query_tp" sets up a query that checks which tables have dead tuples with length greater than 0.
 It can be adjusted as needed, changing the size in the "WHERE" field and defining it in bytes.</p>
 
-<p>The variable "pg_tables list" creates the list of tables with the dead tuples and then a repetition structure executes VACUUM, REINDEX and ANALYZE for each table in this list. </p>
+<p>The variable "pg_tables_list" creates the list of tables with the dead tuples and then a repetition structure executes VACUUM, REINDEX and ANALYZE for each table in this list. </p>
 
