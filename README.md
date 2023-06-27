@@ -2,6 +2,8 @@
 <h2>This code was created for Linux environment.</h2>
 <h3>You can download the vacuum.sh file and adjust it as needed.</h3>
 
+<p>https://github.com/ramos-r29/vacuum/blob/main/vacuum.sh</p>
+
 <p>The database connection must be configured in the vacuum.sh file using the "pg_conn" variable.</p>
 
 <p>The "db_list" variable will list all databases found using the "pg_conn" variable.</p>
